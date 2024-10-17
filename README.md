@@ -1,31 +1,54 @@
-🦆 ShareDuck – Even ducks migrate.
+🦆 **ShareDuck** – Even ducks migrate.
 
-Welcome to ShareDuck, the smoothest way to migrate your files between SharePoint sites! 🦆✨
+Bem-vindo ao **ShareDuck**, a maneira mais suave de migrar seus arquivos entre sites do SharePoint! 🦆✨
 
-ShareDuck is your trusty companion for seamless SharePoint migrations – fast, reliable, and as effortless as a duck gliding across a pond. Whether you're moving documents and folders from one SharePoint site to another, ShareDuck has got your back. With just a few clicks, watch your data swim to its new home in SharePoint!
+**ShareDuck** é o seu companheiro confiável para migrações do SharePoint sem complicações – rápido, confiável e tão fácil quanto um pato deslizando em um lago. Seja movendo documentos e pastas de um site do SharePoint para outro, o **ShareDuck** está pronto para ajudar. Com apenas alguns cliques, veja seus dados nadarem para sua nova casa no SharePoint!
 
-Why ShareDuck?
-Quack-tastic Simplicity – A user-friendly GUI without complex setups. Just enter your credentials, select your sites and libraries, and let the duck do the rest!
-Effortless Migrations – Like a duck on water, everything happens smoothly beneath the surface using the power of Microsoft Graph API.
-Smart and Reliable – Handles authentication, avoids duplication, and validates your migration to ensure everything is in place.
-Optimized Performance – Migrates your data efficiently, even for large volumes, so your migration is faster than a duck takes to cross a pond.
-Fun and Friendly – Migrates like a pro, but with a lot more charm and fun!
-Because if even ducks can migrate, so can your data!
-Features:
+---
 
-🖥 User-Friendly Interface – A simple and intuitive GUI built with PowerShell and Windows Forms.
-🔐 Secure Authentication – Authenticates to Microsoft Graph API using your Tenant ID, Client ID, and Client Secret.
-📂 Flexible Migration Options – Select specific folders or entire libraries to migrate between SharePoint sites.
-🚀 High Performance – Optimized to handle large migrations with adjustable concurrent operations.
-🔄 Intelligent Sync – Checks for existing files to avoid duplication and can update files if changes are detected.
-📊 Progress Tracking – Provides real-time progress updates and detailed logs for full transparency.
-✅ Validation – Verifies the integrity of your migrated data to ensure everything arrived safely.
-📄 Detailed Logging – Generates comprehensive logs saved in %AppData%\ShareDuck for easy review.
-Get Started:
+### **Por que o ShareDuck?**
 
-Download ShareDuck – Grab the latest version from the releases page.
-Prepare Your Credentials – Have your Tenant ID, Client ID, and Client Secret ready.
-Run the Tool – Launch ShareDuck and fill in the required information.
-Select Your Sites and Libraries – Choose the source and destination SharePoint sites and document libraries.
-Start Migration – Click "Iniciar Migração" and watch your data swim to its new home!
-Review Logs – After migration, check the logs in %AppData%\ShareDuck for any details.
+- **Quack-tástica Simplicidade** – Uma interface amigável sem configurações complexas. Basta inserir suas credenciais, selecionar seus sites e bibliotecas, e deixar o pato fazer o resto!
+- **Migrações Sem Esforço** – Como um pato na água, tudo acontece suavemente nos bastidores usando o poder da Microsoft Graph API.
+- **Inteligente e Confiável** – Lida com autenticação, evita duplicações e valida sua migração para garantir que tudo esteja no lugar.
+- **Desempenho Otimizado** – Migra seus dados de forma eficiente, mesmo em grandes volumes, para que sua migração seja mais rápida do que um pato atravessando um lago.
+- **Divertido e Amigável** – Migra como um profissional, mas com muito mais charme e diversão!
+- **Porque se até os patos podem migrar, seus dados também podem!**
+
+---
+
+**Funcionalidades:**
+
+- 🖥 **Interface Amigável** – Uma GUI simples e intuitiva construída com PowerShell e Windows Forms.
+- 🔐 **Autenticação Segura** – Autentica na Microsoft Graph API usando seu Tenant ID, Client ID e Client Secret.
+- 📂 **Opções de Migração Flexíveis** – Selecione pastas específicas ou bibliotecas inteiras para migrar entre sites do SharePoint.
+- 🚀 **Alto Desempenho** – Otimizado para lidar com grandes migrações com operações concorrentes ajustáveis.
+- 🔄 **Sincronização Inteligente** – Verifica arquivos existentes para evitar duplicações e pode atualizar arquivos se alterações forem detectadas.
+- 📊 **Acompanhamento de Progresso** – Fornece atualizações de progresso em tempo real e logs detalhados para total transparência.
+- ✅ **Validação** – Verifica a integridade dos seus dados migrados para garantir que tudo chegou com segurança.
+- 📄 **Logs Detalhados** – Gera logs abrangentes salvos em `%AppData%\ShareDuck` para fácil revisão.
+
+---
+
+**Começando:**
+
+1. **Baixe o ShareDuck** – Pegue a versão mais recente na página de [releases](#).
+2. **Prepare suas Credenciais** – Tenha seu Tenant ID, Client ID e Client Secret prontos.
+3. **Execute a Ferramenta** – Inicie o ShareDuck e preencha as informações necessárias.
+4. **Selecione seus Sites e Bibliotecas** – Escolha os sites do SharePoint de origem e destino e as bibliotecas de documentos.
+5. **Inicie a Migração** – Clique em "Iniciar Migração" e veja seus dados nadarem para sua nova casa!
+6. **Revise os Logs** – Após a migração, verifique os logs em `%AppData%\ShareDuck` para quaisquer detalhes.
+
+---
+
+**Junte-se ao Bando Migratório!**
+
+Seja você um profissional de TI migrando dados da empresa ou apenas movendo alguns arquivos, o **ShareDuck** torna o processo tão suave quanto as penas de um pato. Mergulhe e deixe seus dados alçarem voo!
+
+---
+
+**Porque se até os patos podem migrar, seus dados também podem!** 🦆🚀
+
+---
+
+Sinta-se à vontade para contribuir, relatar problemas ou compartilhar suas histórias de migração. Vamos tornar as migrações do SharePoint uma experiência agradável juntos!
