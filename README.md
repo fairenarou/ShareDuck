@@ -1,4 +1,4 @@
-🦆 **ShareDuck** – Even ducks migrate.
+🦆 **ShareDuck** – Até os patos migram.
 
 Bem-vindo ao **ShareDuck**, a maneira mais suave de migrar seus arquivos entre sites do SharePoint! 🦆✨
 
@@ -41,7 +41,7 @@ Bem-vindo ao **ShareDuck**, a maneira mais suave de migrar seus arquivos entre s
 
 ---
 
-**Junte-se ao Bando Migratório!**
+**Junte-se ao bando migratório!**
 
 Seja você um profissional de TI migrando dados da empresa ou apenas movendo alguns arquivos, o **ShareDuck** torna o processo tão suave quanto as penas de um pato. Mergulhe e deixe seus dados alçarem voo!
 
