@@ -1,5 +1,12 @@
 🦆 **ShareDuck** – Até os patos migram.
 
+**Available Languages / Línguas disponíveis:**
+
+- [🇺🇸 English](README.en.md)
+- [🇧🇷 Português](README.md)
+
+---
+
 Bem-vindo ao **ShareDuck**, a maneira mais suave de migrar seus arquivos entre sites do SharePoint! 🦆✨
 
 **ShareDuck** é o seu companheiro confiável para migrações do SharePoint sem complicações – rápido, confiável e tão fácil quanto um pato deslizando em um lago. Seja movendo documentos e pastas de um site do SharePoint para outro, o **ShareDuck** está pronto para ajudar. Com apenas alguns cliques, veja seus dados nadarem para sua nova casa no SharePoint!
@@ -32,7 +39,7 @@ Bem-vindo ao **ShareDuck**, a maneira mais suave de migrar seus arquivos entre s
 
 **Começando:**
 
-1. **Baixe o ShareDuck** – Pegue a versão mais recente na página de [releases](#).
+1. **Baixe o ShareDuck** – Pegue a versão mais recente na página de [releases](https://github.com/fairenarou/ShareDuck/releases).
 2. **Prepare suas Credenciais** – Tenha seu Tenant ID, Client ID e Client Secret prontos.
 3. **Execute a Ferramenta** – Inicie o ShareDuck e preencha as informações necessárias.
 4. **Selecione seus Sites e Bibliotecas** – Escolha os sites do SharePoint de origem e destino e as bibliotecas de documentos.
