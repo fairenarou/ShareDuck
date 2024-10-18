@@ -15,7 +15,7 @@ Bem-vindo ao **ShareDuck**, a maneira mais suave de migrar seus arquivos entre s
 
 ### **Por que o ShareDuck?**
 
-- **Quack-tástica Simplicidade** – Uma interface amigável sem configurações complexas. Basta inserir suas credenciais, selecionar seus sites e bibliotecas, e deixar o pato fazer o resto!
+- **Simplicidade Quack-tástica** – Uma interface amigável sem configurações complexas. Basta inserir suas credenciais, selecionar seus sites e bibliotecas, e deixar o pato fazer o resto!
 - **Migrações Sem Esforço** – Como um pato na água, tudo acontece suavemente nos bastidores usando o poder da Microsoft Graph API.
 - **Inteligente e Confiável** – Lida com autenticação, evita duplicações e valida sua migração para garantir que tudo esteja no lugar.
 - **Desempenho Otimizado** – Migra seus dados de forma eficiente, mesmo em grandes volumes, para que sua migração seja mais rápida do que um pato atravessando um lago.
